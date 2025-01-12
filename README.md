@@ -4,8 +4,8 @@ This is achieved with the user of object-oriented programming principles includi
 Compile and run the UberUI.java file and try out some of these commands:
 - users
 - drivers
-- loadusers (enter file name)
-- loaddrivers (enter file name)
+- loadusers (requires .txt file with name, address and account funds on separate lines)
+- loaddrivers (requires .txt file with name, car, license plate, address on separate lines)
 - requests
 - reqride
 - reqdlvy
