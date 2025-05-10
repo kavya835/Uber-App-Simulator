@@ -13,10 +13,18 @@ And try out some of these commands:
 - drivers
 - loadusers (requires .txt file with name, address and account funds on separate lines)
 - loaddrivers (requires .txt file with name, car, license plate, address on separate lines)
+- reguser
+- regdriver
 - requests
 - reqride
 - reqdlvy
+- cancelreq
 - pickup
 - dropoff
 - driveto
+- sortbyname
+- sortbywallet
+- addr
+- dist
+- revenues
 - q
